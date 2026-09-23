@@ -1,0 +1,4 @@
+pyrofork==2.3.48
+tgcrypto==1.2.5
+Flask==3.0.3
+aiohttp==3.9.5
